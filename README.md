@@ -31,3 +31,27 @@ npm run dev
 
 // Server runs on http://localhost:5000 and client on http://localhost:3000
 ```
+**Home Page**
+
+![Home](https://user-images.githubusercontent.com/65606499/146728624-a84a2357-3b9d-4ddb-aff8-2737aed16700.JPG)
+
+**LOGIN and REGISTER PAGE**
+
+![LoginPage](https://user-images.githubusercontent.com/65606499/146728773-4810f428-b6d0-4c7e-8020-f405e24fdf91.JPG)
+
+
+![registerPage](https://user-images.githubusercontent.com/65606499/146728790-d8c07b38-9f47-44bb-aa40-52c5a0865b26.JPG)
+
+**ADDITIONAL DETAILS**
+
+![AdditionalDetails](https://user-images.githubusercontent.com/65606499/146728880-4578a436-0d14-435b-82a0-a87c81b911e7.JPG)
+
+**ERROR FUNCTIONALITY IN EVERY FORM**
+
+![errorsFunction](https://user-images.githubusercontent.com/65606499/146728990-654671a3-25ed-463f-b7b7-5287092b00b4.JPG)
+
+**SUCCESS PAGE**
+
+
+![Success](https://user-images.githubusercontent.com/65606499/146729054-f1974394-4f71-428a-8baf-82875f72abed.JPG)
+
