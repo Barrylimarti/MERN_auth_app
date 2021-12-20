@@ -52,6 +52,5 @@ npm run dev
 
 **SUCCESS PAGE**
 
-
-![Success](https://user-images.githubusercontent.com/65606499/146729054-f1974394-4f71-428a-8baf-82875f72abed.JPG)
+![Success](https://user-images.githubusercontent.com/65606499/146729573-4bfbe8b2-53c3-44fa-9808-ce29b09fd44f.png)
 
